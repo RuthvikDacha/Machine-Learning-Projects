@@ -61,11 +61,3 @@ I am a recent Business Analytics graduate with a passion for applying Machine Le
 
 - **Tableau Dashboard**: [House Price Analysis and Model Insights](https://public.tableau.com/views/HousePriceAnalysisandModelInsights/HousePriceAnalysisandModelInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - **Dataset**: [Real Estate Price Prediction Dataset on Kaggle](https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction?select=Real+estate.csv)
-
----
-
-## Contact
-
-- **Email**: dacha.ruthvik@gmail.com
-- **LinkedIn**: [linkedin.com/in/ruthvikdacha](https://linkedin.com/in/ruthvikdacha)
-- **GitHub**: [github.com/RuthvikDacha](https://github.com/RuthvikDacha)
